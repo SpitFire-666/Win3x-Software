@@ -1,5 +1,7 @@
-# Win3x-Software
+# Win3x - Software, settings, info
 
+
+http://annex.retroarchive.org/cdrom/nightowl-023/049A/index.html
 
 windru5c.zip  130608 11-25-96  Win3.x: WinDir Usage v1.5c: Disk pie chart
 
