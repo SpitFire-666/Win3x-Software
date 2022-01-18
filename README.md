@@ -56,6 +56,40 @@ IconWorks .ico icon editor
 
 BOWEP
 
+- Rodent's Revenge 
+
+http://www.uvlist.net/globalsearch?t=windows+3.1
+
+https://app.box.com/s/w580m55swd2yugqezagqf8s8udwkaepj
+
+BOWEP
+
+ice breaker
+
+
+http://www.win3game.com/
+
+
+https://www.mobygames.com/browse/games/win3x/
+
+Jewell thief
+
+mahjongg
+
+tetravex
+
+pipe dream
+
+chip's challenge
+
+ants.exe
+
+slug.exe
+
+
+
+
+
 
 Calmira
 
