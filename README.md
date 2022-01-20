@@ -114,8 +114,13 @@ My old decked out Windows 3.1 desktop. Windows 3.1 actually supported displaying
 
 Mouse Keys                               
                                
-                               
-## FONTS
+
+## Drivers
+
+http://www.win31.de/edrivers.htm
+
+
+## Fonts
 
 Win2k File manager
 
@@ -127,5 +132,10 @@ http://www.scampers.org/steve/vmware/#31pack
 
 https://oldos.org/downloads/win3x/
 
+http://www.win31.de/esoft.htm
+
+http://www.win31.de/etips.htm
+
+https://www.mdgx.com/w31toy.htm
 
 https://www.pcorner.com/list/WINDOWS
